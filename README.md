@@ -25,14 +25,14 @@ We will be looking for the following things:
 
 ## Requirements
 
-- Materials must be in a clearly commented Jupyter notebook
-- You should demonstrate:
+- Materials must be in a clearly commented Jupyter notebook.
+- Students should demonstrate the ability to:
 
-    - Ability to thoroughly understand a dataset; be explicit about any assumptions you make in the face of uncertainty
-    - Plotting and visualizing wherever you can, and interpreting what you see
-    - The ability to clearly articulate a hypothesis, then translate it into a justifiable statistical test
+    - Analyze diverse datasets & explicitly state your assumptions.
+    - Form hypotheses and justify them with solid statistical testing in NumPy. 
+    - Visualize and interpret your plots using Matplotlib and Seaborn. 
+---
 
-___
 ### Useful Resources
 
 - Here's a [cheatsheet](https://chrisalbon.com/python/pandas_dataframe_descriptive_stats.html) of descriptive statistics methods in Pandas.
