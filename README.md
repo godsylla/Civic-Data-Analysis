@@ -31,6 +31,7 @@ We will be looking for the following things:
     - Analyze diverse datasets & explicitly state your assumptions.
     - Form hypotheses and justify them with solid statistical testing in NumPy. 
     - Visualize and interpret your plots using Matplotlib and Seaborn. 
+
 ---
 
 ### Useful Resources
