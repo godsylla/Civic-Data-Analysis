@@ -20,6 +20,10 @@ A mayor created a new data analysis team to provide policy advice. The mayor wan
 
 ## Findings
 
+## Assumptions
+
+## Citations
+
 
 --- 
 
