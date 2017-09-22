@@ -18,11 +18,11 @@ A mayor created a new data analysis team to provide policy advice. The mayor wan
 - Pull information from other sources if existing data is deemed inadequate
 
 
-## Findings
+### Findings
 
-## Assumptions
+### Assumptions
 
-## Citations
+### Citations
 
 
 --- 
