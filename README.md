@@ -2,16 +2,16 @@
 
 # Civic data analyses
 
-## Hypothetical Business Case
+### Hypothetical Business Case
 A mayor created a new data analysis team to provide policy advice. The mayor wants to start a new initiative to move the needle on two separate issues:
 1. high school education outcomes,
 2. drug abuse in the community.
 
-## Datasets
+### Datasets
 1. SAT Scores by State
 2. Drug Use by Age in the community.
 
-## Objective
+### Objective
 - Identify patterns
 - Visualize data where relevant and informative
 - Generate features
