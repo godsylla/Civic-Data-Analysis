@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  
 
-# Civic data analyses
+# Civic Data Analysis
 
 ### Hypothetical Business Case
 A mayor created a new data analysis team to provide policy advice. The mayor wants to start a new initiative to move the needle on two separate issues:
