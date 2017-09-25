@@ -1,12 +1,29 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 2: Civic data analyses
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  
 
-## Business Case
+# Civic Data Analysis
 
-Your hometown mayor just created a new data analysis team to give policy advice, and the administration recruited _you_ via LinkedIn to join it. Unfortunately, due to budget constraints, for now the "team" is just you...
+### Hypothetical Business Case
+A mayor created a new data analysis team to provide policy advice. The mayor wants to start a new initiative to move the needle on two separate issues:
+1. high school education outcomes,
+2. drug abuse in the community.
 
-The mayor wants to start a new initiative to move the needle on one of two separate issues: high school education outcomes, or drug abuse in the community.
+### Datasets
+1. SAT Scores by State
+2. Drug Use by Age in the community.
 
-Also unfortunately, that is the entirety of what you've been told. And the mayor just went on a lobbyist-funded fact-finding trip in the Bahamas. In the meantime, you got your hands on two national datasets: one on SAT scores by state, and one on drug use by age. Start exploring these to look for useful patterns and possible hypotheses!
+### Objective
+- Identify patterns
+- Visualize data where relevant and informative
+- Generate features
+- Pull information from other sources if existing data is deemed inadequate
+
+
+### Findings
+
+### Assumptions
+
+### Citations
+
 
 --- 
 
