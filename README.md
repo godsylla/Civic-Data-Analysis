@@ -30,6 +30,7 @@ A mayor created a new data analysis team to provide policy advice. The mayor wan
     - Hypohtesis: Meth and Heroin Use averages are essentially the same. This hypothesis was rejected through use of teh t-statistic and p-values. 
 
 3. Recommendations:
+    - Obtain state and county specific SAT scores for the mayor's jurisdiction with a history dating back to 1970's if possible. This will help identify any region specific trends in the education system that may or may not need to be addressed through policy changes.
     - See if there exists data for the age of test takers so there can be a common ground by which to compare the drug dataset and the SAT score dataset. This might allow for more thorough analysis on how certain age groups that use certain drugs or do not use certain drugs during teen years impact academic success. 
     - Do further research to measure how many home products contain ingredients that double as hallucinogens, inhalants, and pain relievers in order to better understand the strong correlation of these drug types with the age group 12.
     - Obtain additional information on drug use and balance the sample sizes. The sample sizes for each age and age group are incredibly imbalanced, which should be a consdieration if any predictive models are built on this dataset. My recommendation is to pull additional data resources that we can leverage, or work to somehow obtain a larger sample AND more balanced sample.
