@@ -19,57 +19,22 @@ A mayor created a new data analysis team to provide policy advice. The mayor wan
 
 
 ### Findings
+1. SAT Dataset:
+    - There is bimodal distribution of the data across states.
+    - More information should be gathered for state-specific scores and a history of scores to be able to recommend more county-specific suggestions to the mayor. 
+    - The higher the Math Scores, the higher the Verbal Scores, and the higher the Total Score.
+    - There is not significant variance of contribution of each subject's score to the Total Score in each state. For example, there is not a single state whereby 70% of the Total Score was attributed to the Math Score.
+
+2. Drug Dataset:
+    - Age 12 sample shows strong correlations to hallucinogen, inhalant, and pain relief drug use. Hypothesis that this is due to the accessible nature of these drugs. 
+    - Hypohtesis: Meth and Heroin Use averages are essentially the same. This hypothesis was rejected through use of teh t-statistic and p-values. 
+
+3. Recommendations:
+    - Obtain state and county specific SAT scores for the mayor's jurisdiction with a history dating back to 1970's if possible. This will help identify any region specific trends in the education system that may or may not need to be addressed through policy changes.
+    - See if there exists data for the age of test takers so there can be a common ground by which to compare the drug dataset and the SAT score dataset. This might allow for more thorough analysis on how certain age groups that use certain drugs or do not use certain drugs during teen years impact academic success. 
+    - Do further research to measure how many home products contain ingredients that double as hallucinogens, inhalants, and pain relievers in order to better understand the strong correlation of these drug types with the age group 12.
+    - Obtain additional information on drug use and balance the sample sizes. The sample sizes for each age and age group are incredibly imbalanced, which should be a consdieration if any predictive models are built on this dataset. My recommendation is to pull additional data resources that we can leverage, or work to somehow obtain a larger sample AND more balanced sample.
 
 ### Assumptions
-
-### Citations
-
-
---- 
-
-## Directions
-
-This project is focused on exploratory data analysis, aka "EDA". EDA is an essential part of the data science analysis pipeline. Failure to perform EDA before modeling is almost guaranteed to lead to bad models and faulty conclusions. What you do in this project are good practices for all projects going forward, especially those after this bootcamp!
-
-Spend your time trying to understand your data, through both summary statistics and visualization. By the end, you will want to be familiar enough with the datasets that you can think of testable hypotheses that could point in specific policy directions.
-
-We will be looking for the following things:
-
-- For statistics questions, Python code -- using pandas, numpy, scipy, and/or other libraries -- to calculate correct answers, with Markdown explaining your results
-- For plotting questions, labeled seaborn or matplotlib plots displayed within your notebook, with Markdown interpreting the results
-
----
-
-## Requirements
-
-- Materials must be in a clearly commented Jupyter notebook.
-- Students should demonstrate the ability to:
-
-    - Analyze diverse datasets & explicitly state your assumptions.
-    - Form hypotheses and justify them with solid statistical testing in NumPy. 
-    - Visualize and interpret your plots using Matplotlib and Seaborn. 
-
----
-
-### Useful Resources
-
-- Here's a [cheatsheet](https://chrisalbon.com/python/pandas_dataframe_descriptive_stats.html) of descriptive statistics methods in Pandas.
-
-- Making good plots can take a lot of trial-and-error (especially with matplotlib). The [seaborn example gallery](http://seaborn.pydata.org/examples/) may help you find the right code, and decide what you want to do in the first place.
-
-- Inferential statistics and hypothesis testing can get very nuanced. It is okay to violate some of the assumptions underlying the methods you've learned. But be explicit about why you've chosen a particular method, and what the drawbacks may be.
-
----
-
-### Project Feedback + Evaluation
-
-For all projects, students will be evaluated on a simple 3 point scale (0, 1, or 2). Instructors will use this rubric when scoring student performance on each of the core project **requirements:** 
-
- Score | Expectations
- ----- | ------------
- **0** | _Does not meet expectations. Try again._
- **1** | _Meets expectations. Good job._
- **2** | _Surpasses expectations. Brilliant!_
-
-
-[For more information on how we grade our DSI projects, see our project grading walkthrough.](https://git.generalassemb.ly/dsi-projects/readme/blob/master/README.md)
+* SAT Dataset:
+    - Assumed that Rate represents the number of total eligible seniors in a given state who actually took the SAT exam.
